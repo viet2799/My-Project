@@ -7,5 +7,8 @@ export default class App extends Component {
   render() {
     return <Index />;
     //DDax thay doi
+    // git add *
+    // git commit -matchMedia
+    // git push
   }
 }
